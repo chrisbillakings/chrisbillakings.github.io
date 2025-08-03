@@ -4,9 +4,19 @@ layout: page
 
 ## Github Pages
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+![passport](akinyemipassport.png "Akinyemi Afolabi")
 
-## Features
+
+## About Me
+
+
+## Education
+---
+M.A. Applied Economics
+M.A. Governance and regional Integration
+Bsc. Economics
+
+## Research Interest
 
  - dark mode
  - [KaTeX](https://katex.org) included
@@ -16,7 +26,7 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `you
  - syntax highlighting
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
-## Installation
+## Experience
 
 To run locally [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and then run:
 
