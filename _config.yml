@@ -18,11 +18,11 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
   - {file: "CV", title: "CV", sidebaricon: address-card}
   - {file: "Publications", title: "Publications", sidebaricon: address-card}
   - {file: "Awards and Honors", title: "Awards and Honors", sidebaricon: address-card}
+  - {file: "blog.md", title:"Blog", sidebaricon: home}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:afolabiakinyemi@gmail.com"}
