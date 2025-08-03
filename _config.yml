@@ -20,9 +20,9 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
-  - {file: "README.md", sidebaricon: address-card}
-  - {file: "README.md", sidebaricon: address-card}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "CV", sidebaricon: address-card}
+  - {file: "Publications", sidebaricon: address-card}
+  - {file: "Awards and Honors", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:afolabiakinyemi@gmail.com"}
