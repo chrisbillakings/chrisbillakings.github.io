@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## Github Pages
-
 ![passport](/assets/images/Digital Passport (1).jpg "Akinyemi Afolabi")
 
 
