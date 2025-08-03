@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "index.md", sidebaricon: address-card}
   - {file: "CV", title: "CV", sidebaricon: address-card}
   - {file: "Publications", title: "Publications", sidebaricon: address-card}
   - {file: "Awards and Honors", title: "Awards and Honors", sidebaricon: address-card}
