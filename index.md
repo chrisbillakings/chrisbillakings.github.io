@@ -4,7 +4,7 @@ layout: page
 
 ## Github Pages
 
-![passport](akinyemipassport.png "Akinyemi Afolabi")
+![passport](/assets/images/Digital Passport (1).jpg "Akinyemi Afolabi")
 
 
 ## About Me
