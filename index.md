@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![passport](/assets/images/Digital Passport (1).jpg "Akinyemi Afolabi")
+![passport](/assets/images/passp.jpg "Akinyemi Afolabi")
 
 
 ## About Me
@@ -12,7 +12,7 @@ Top Economist
 ---
 M.A. Applied Economics \\
 M.A. Governance and regional Integration \\
-Bsc. Economics \
+Bsc. Economics
 
 ## Research Interest
 
