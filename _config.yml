@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publication.md", title: "Publications", sidebaricon: address-card}
   - {file: "award.md", title: "Awards and Honors", sidebaricon: address-card}
   - {file: "blog.md", title:"Blog", sidebaricon: home}
-  - {file: "Work.md", title: "works", sidebaricon: address-card}
+  - {file: "work.md", title: "works", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:afolabiakinyemi@gmail.com"}
