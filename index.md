@@ -12,7 +12,7 @@ Top Economist
 ---
 M.A. Applied Economics \\
 M.A. Governance and regional Integration \\
-Bsc. Economics \\
+Bsc. Economics \
 
 ## Research Interest
 
