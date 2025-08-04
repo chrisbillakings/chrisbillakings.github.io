@@ -20,8 +20,8 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "home", sidebaricon: address-card}
   - {file: "AkinyemiAfolabi_CV.pdf", title: "CV", sidebaricon: address-card}
-  - {file: "Publications", title: "Publications", sidebaricon: address-card}
-  - {file: "Awards and Honors", title: "Awards and Honors", sidebaricon: address-card}
+  - {file: "Publication.md", title: "Publications", sidebaricon: address-card}
+  - {file: "award.md", title: "Awards and Honors", sidebaricon: address-card}
   - {file: "blog.md", title:"Blog", sidebaricon: home}
   - {file: "Work.md", title: "works", sidebaricon: address-card}
 
