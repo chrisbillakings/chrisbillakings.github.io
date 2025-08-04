@@ -9,8 +9,8 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
+show_frame: false                # display a grey frame on large screens
+show_sidebar: true             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
 
 #show_frame: "/assets/images/background.svg"
@@ -20,7 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "home", sidebaricon: address-card}
   - {file: "AkinyemiAfolabi_CV.pdf", title: "CV", sidebaricon: address-card}
-  - {file: "Publication.md", title: "Publications", sidebaricon: address-card}
+  - {file: "publication.md", title: "Publications", sidebaricon: address-card}
   - {file: "award.md", title: "Awards and Honors", sidebaricon: address-card}
   - {file: "blog.md", title:"Blog", sidebaricon: home}
   - {file: "work.md", title: "works", sidebaricon: address-card}
