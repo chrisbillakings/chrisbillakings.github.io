@@ -10,9 +10,9 @@ Top Economist
 
 ## Education
 ---
-M.A. Applied Economics
-M.A. Governance and regional Integration
-Bsc. Economics
+M.A. Applied Economics \\
+M.A. Governance and regional Integration \\
+Bsc. Economics \\
 
 ## Research Interest
 
