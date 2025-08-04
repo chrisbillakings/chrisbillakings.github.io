@@ -13,10 +13,12 @@ title: Publication
 
  - **"Oil Prices and Economic Growth in Oil-Producing Countries: A Panel Data Approach"** (with Kuranga A.O., Ojuolape M.A., & Yusuf H.A.) [Chiang Mai University Journal of Economics](https://so01.tci-thaijo.org/index.php/CMJE/article/view/263225/173772)
 
+---
 
 ## Research under Review
  - **Exchange Rate and Its Effects on the Living Conditions of Nigerians** (with Lajuwomi, O.O) (Under Review for Publication).
 
+---
 
 ## Research Project
 1. **The Impact of Trade Integration on Poverty Reduction in ECOWAS Countries** (Masters Thesis Research Submitted to the Institute of Governance Humanities and Social Sciences at Pan African University, 2024)
