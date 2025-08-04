@@ -6,8 +6,6 @@ layout: page
 
 
 ### <u> About Me </u>
-----------------------
-----------------------
 Top Economist
 
 ### <ins> Education </ins>
