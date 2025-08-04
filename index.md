@@ -5,10 +5,10 @@ layout: page
 ![passport](/assets/images/passp.jpg "Akinyemi Afolabi")
 
 
-### About Me
+### <u> About Me </u>
 Top Economist
 
-### Education
+### <ins> Education </ins>
 M.A. Applied Economics \\
 M.A. Governance and regional Integration \\
 Bsc. Economics
