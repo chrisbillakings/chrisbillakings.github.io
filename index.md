@@ -6,7 +6,7 @@ layout: page
 
 
 ### <u> About Me </u>
-Top Economist
+I am currently a Masters student of Applied Economics at Western Michigan University, USA. Previously, I received a masters in governance and regional integration at Pan African University, Cameroon.
 
 ### <ins> Education </ins>
 M.A. Applied Economics \\
