@@ -4,28 +4,25 @@ layout: page
 
 ![passport](/assets/images/Akinyemi.jpg "Akinyemi Afolabi")
 
-
-### <u> About Me
+<h3 style="margin-bottom:-10px;"><u></u>About Me</h3>u></h3>
 I am currently a Masters student of Applied Economics at Western Michigan University, USA. Previously, I received a masters in governance and regional integration at Pan African University, Cameroon.
 
-### <ins> Education </ins>
+<h3 style="margin-bottom:-10px;"><u></u>Education</h3>u></h3>
 M.A. Applied Economics \\
 M.A. Governance and regional Integration \\
 Bsc. Economics
 
-<h3 style="margin-bottom:-10px;">Research Interest</h3>
+<h3 style="margin-bottom:-10px;"><u></u>Research Interest</h3>u></h3>
 **Primary** - Environmental Economics, International Economics, Macroeconomics, Applied Econometrics \\
 **Secondary** - Development Economics, Public Policy
 
  
-
-### Research Experience
-1. Teaching Assistant to Dr. Rodrigo - WMU, USA
-2. Teaching Assistant to Dr. Ndamsa - PAU, Cameroon
+<h3 style="margin-bottom:-10px;"><u></u>Research Experience</h3>u></h3>
+1. Research Assistant to Dr. Rodrigo - WMU, USA
+2. Research Assistant to Dr. Ndamsa - PAU, Cameroon
 3. Research Assistant to Dr. Ojuolape - Unilorin, Nigeria
    
-
-### Teaching Experience
+<h3 style="margin-bottom:-10px;"><u></u>Teaching Experience</h3>u></h3>
 1. Spring 2025: ECON 4090 (Econometrics)
 2. Spring 2025: ECON 2010 (Principles of Microeconomics)
 3. Fall 2024: ECON 3390 (Exploring Economic Data)
