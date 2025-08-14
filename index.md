@@ -5,7 +5,7 @@ layout: page
 ![passport](/assets/images/Akinyemi.jpg "Akinyemi Afolabi")
 
 
-### <u> About Me </u>
+### <u> About Me
 I am currently a Masters student of Applied Economics at Western Michigan University, USA. Previously, I received a masters in governance and regional integration at Pan African University, Cameroon.
 
 ### <ins> Education </ins>
@@ -13,8 +13,8 @@ M.A. Applied Economics \\
 M.A. Governance and regional Integration \\
 Bsc. Economics
 
-### Research Interest
-**Primary** - Environmental Economics, International Economics, Macroeconomics, Applied Econometrics
+<h3 style="margin-bottom:4px;">Research Interest</h3>
+**Primary** - Environmental Economics, International Economics, Macroeconomics, Applied Econometrics \\
 **Secondary** - Development Economics, Public Policy
 
  
