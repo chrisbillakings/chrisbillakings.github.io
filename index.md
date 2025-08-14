@@ -13,7 +13,7 @@ M.A. Applied Economics \\
 M.A. Governance and regional Integration \\
 Bsc. Economics
 
-<h3 style="margin-bottom:4px;">Research Interest</h3>
+<h3 style="margin-bottom:-4px;">Research Interest</h3>
 **Primary** - Environmental Economics, International Economics, Macroeconomics, Applied Econometrics \\
 **Secondary** - Development Economics, Public Policy
 
