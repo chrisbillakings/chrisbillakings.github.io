@@ -2,7 +2,7 @@
 layout: page
 ---
 
-![passport](/assets/images/passp.jpg "Akinyemi Afolabi")
+![passport](/assets/images/Akinyemi.jpg "Akinyemi Afolabi")
 
 
 ### <u> About Me </u>
