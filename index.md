@@ -26,11 +26,11 @@ Bsc. Economics
    
 
 ### Teaching Experience
-1. Spring 2025: ECON 4090 (Econometrics) —Teaching Assistant to Prof. Debasri Mukherjee
-2. Spring 2025: ECON 2010 (Principles of Microeconomics) —Teaching Assistant to Prof. Debasri Mukherjee
-3. Fall 2024: ECON 3390 (Exploring Economic Data) —Teaching Assistant to Prof. Debasri Mukherjee
-4. Class Teacher, Economics: SSCOE Secondary School, Nigeria (2017-2018)
-5. Lead Tutor, Mathematics, Economics, and Statistics: Department of Economics, University of Ilorin, Nigeria (2015-2017).
+1. Spring 2025: ECON 4090 (Econometrics)
+2. Spring 2025: ECON 2010 (Principles of Microeconomics)
+3. Fall 2024: ECON 3390 (Exploring Economic Data)
+4. Class Teacher, Economics (2017-2018)
+5. Lead Tutor, Mathematics, Economics, and Statistics (2015-2017).
 
 
 ### Experience
