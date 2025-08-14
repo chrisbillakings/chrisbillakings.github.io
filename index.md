@@ -39,4 +39,3 @@ Bsc. Economics
 - Partnerships Portfolio Management Intern - UNDP, USA
 - Diplomat Intern - MINREX, Cameroon
 - Relationship Officer - Union Bank, Nigeria
-- 
