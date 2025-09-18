@@ -6,7 +6,6 @@ layout: Post
 ## Some work in research methods
 
 {% highlight r %}
-```{r}
 library(dplyr)
 library(gtrends)
 library(tidyverse)
