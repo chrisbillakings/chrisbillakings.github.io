@@ -9,7 +9,6 @@ categories: research
 #### This is my work in python
 
 {% highlight python %}
-```python
 #Numpy
 import numpy as np
 
