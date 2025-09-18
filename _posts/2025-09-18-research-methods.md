@@ -11,5 +11,5 @@ library(gtrends)
 library(tidyverse)
 
 sum(3+5)
-{% endhighlight %}
+
 
