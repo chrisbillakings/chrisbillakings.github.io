@@ -11,6 +11,6 @@ library(dplyr)
 library(gtrends)
 library(tidyverse)
 
-3+5
+sum(3+5)
 {% endhighlight %}
 
