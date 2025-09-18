@@ -1,5 +1,5 @@
 ---
-title: Research Methods
+title: "Research Methods"
 layout: Post
 ---
 
