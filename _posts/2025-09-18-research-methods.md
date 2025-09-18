@@ -1,6 +1,7 @@
 ---
 title: "Research Methods"
 layout: Post
+categories: research
 ---
 
 Using R in Economics Research
