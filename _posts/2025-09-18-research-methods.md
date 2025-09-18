@@ -10,6 +10,7 @@ library(dplyr)
 library(gtrends)
 library(tidyverse)
 
-sum(3+5)
+a = sum(3+5)
+print (a)
 
 
