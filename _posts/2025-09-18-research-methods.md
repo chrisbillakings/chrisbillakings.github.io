@@ -1,8 +1,8 @@
----
+___
 title: "Research Methods"
 layout: Post
 categories: research
----
+___
 
 Using R in Economics Research
 ## Some work in research methods
