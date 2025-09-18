@@ -14,5 +14,3 @@ library(tidyverse)
 3+5
 
 
-
-```R
