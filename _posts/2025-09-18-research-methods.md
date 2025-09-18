@@ -3,6 +3,7 @@ title: "Research Methods"
 layout: Post
 ---
 
+Using R in Economics Research
 ## Some work in research methods
 
 ```r
