@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 
-- **"Exchange Rate and Its Effects on the Living Conditions of Nigerians"** (with Lajuwomi, O.O) [SN Business \& Economics](https://rdcu.be/eEDld)
+ - **"Exchange Rate and Its Effects on the Living Conditions of Nigerians"** (with Lajuwomi, O.O) [SN Business \& Economics](https://rdcu.be/eEDld)
  - **"Revisiting the impact of trade integration on poverty reduction in ECOWAS: A panel quantile regression analysis"** (with Ndamsa D. T.) [The Journal of International Trade & Economic Development]( https://www.tandfonline.com/doi/full/10.1080/09638199.2025.2459912)
 
  - **"Public Debt Dynamics and Exchange Rate in Nigeria."** (with Kuranga A.O., Jimoh M. M., Ojuolape M. A.) [Sri Lankan Journal of Business Economics](https://doi.org/10.31357/sljbe.v14.8390)
